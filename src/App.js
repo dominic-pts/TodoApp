@@ -8,6 +8,7 @@ import './style.scss';
 import Column from './components/Column/';
 import AddNewModal from './components/AddNewModal/';
 import Task from './components/Task/';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 class App extends Component {
 
